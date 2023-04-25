@@ -1,0 +1,2 @@
+Em có ask Mentor, Mentor bảo chỉ cần làm tối thiểu 10 testcase, có thể là cả 10 testcase này thuộc cùng 1 usecases cũng đc. Chứ k cần phải làm hết 10 usecases. 
+Nên em làm cho UC1,UC2,UC6 ạ.
